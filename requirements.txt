@@ -1,0 +1,12 @@
+fastf1
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+XlsxWriter
+notebook  
+kaggle
+xgboost
+flask
